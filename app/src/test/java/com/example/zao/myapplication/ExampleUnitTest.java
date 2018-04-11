@@ -1,4 +1,4 @@
-package com.example.zao.lab3;
+package com.example.zao.myapplication;
 
 import org.junit.Test;
 
